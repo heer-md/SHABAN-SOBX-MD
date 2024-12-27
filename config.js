@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "zVAAQYDJ#W97z4G9zUV7AZLx4b0mOlDvYELtrKrktD25EXhL9jqs",
     CAPTION: process.env.CAPTION || "POWERED BY MRSHABAN432",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "true",
@@ -27,7 +27,7 @@ module.exports = {
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
-    BOT_NAME: process.env.BOT_NAME || "ᴍʀ_sʜᴀʙᴀɴ",
+    BOT_NAME: process.env.BOT_NAME || "MR.JERRY",
     STATUS_REPLY: process.env.STATUS_REPLY || "`ʏᴏᴜʀ sтαтυs sεεη נυsт ησω`",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
